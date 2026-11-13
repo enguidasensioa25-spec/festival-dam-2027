@@ -1,1 +1,3 @@
-# No se permiten meter achivos .tmp y .log \n*.log \n*.tmp
+# No se permiten meter achivos .tmp y .log 
+*.log 
+*.tmp
