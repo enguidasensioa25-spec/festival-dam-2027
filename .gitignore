@@ -1,0 +1,3 @@
+#Ignorar archivos .log y .tmp
+*.log
+*.tmp
