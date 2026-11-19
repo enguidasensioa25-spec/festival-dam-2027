@@ -1,4 +1,3 @@
-#Ignorar archivos que no deben incluirse en un repositorio
-*.java
+# No se permiten meter achivos .tmp y .log 
+*.log 
 *.tmp
-*.class
