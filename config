@@ -1,0 +1,4 @@
+[remote "origin"]
+	url = https://github.com/enguidasensioa25-spec/festival-dam-2027.git
+[credential]
+	interactive = always
